@@ -1,10 +1,11 @@
-# Yuxin Guo
+### Yuxin Guo
 Email: [y5guo@ucsd.edu](mailto:y5guo@ucsd.edu)
 
 Section: *B12*
+
 Mentor: Gal Mishne and Yusu Wang
 
-## Quarter 2 Project Brainstorming
+#### Quarter 2 Project Brainstorming
 
 **What is the most interesting topic covered in your domain this quarter?**
 
