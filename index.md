@@ -13,11 +13,11 @@ The most interesting topic covered this quarter is the Weisfeiler-Lehman Test, e
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-(Your answer here)
+A potential investigation is to develop a new GNN model that effectively capture the long-range dependency in graph data, like the data we used for our quarter one's project, the IMBD and the Cora dataset. This project would focus on integrating transformer, like attention mechanisms within GNN. The primary goal is to address the limitations of existing GNNs when dealing with large-scale graphs. The investigation could start by analyzing the core components in currect GNN models, and how they manage long-range interactions. Or the investigation would involve experimenting with different positional encoding strategies to help GNNs better understand the structure of the graph. 
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-(Your answer here)
+A significant modification that could be beneficial is the multi-scale feature extraction. This change could design a network that can aggregate and process information from various graph scales and the features of its neighborhood nodes. The motivation is to enable the model to capture a more comprehensive range of the graph features, from immediate neighbors to more further nodes, thereby addressing the challenge of long-range interactions more effectively. And also this change could benefit from dynamic neighborhood sampling techniques, where the size and composition of the neighborhoods are adjusted during the training process based on the model's learning process. This adaptability could provide a more complete understanding of graph structures and improve the model's performance on large-scale graphs.
 
 **What other techniques would you be interested in using in your project?**
 
