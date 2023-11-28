@@ -21,5 +21,6 @@ A significant modification that could be beneficial is the multi-scale feature e
 
 **What other techniques would you be interested in using in your project?**
 
-(Your answer here)
+The project could incorporate unsupervised learning into GNN. This approach could involve using graph autoencoders to learn powerful node and graph embeddings in an unsupervised manner. These embeddings could be used to potentially improving the performance in dataset where labeled data is limited, like the IMDB dataset.
 
+Additionally, different graph pooling and normalization strategies within the GNN layers might be helpful. Graph pooling could help in managing the complexity of large graphs, while there might be normalization techniques that could combat the over-smoothing issue. Exploring dropout probaility could also be beneficial, which can prevent the model from being too relying on particular features within the graph, potentially leading to more generalized and robust performance.
