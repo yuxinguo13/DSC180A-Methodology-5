@@ -6,7 +6,7 @@ Section: *B12*
 Mentor: Gal Mishne and Yusu Wang
 
 
-### Quarter 2 Project Brainstorming
+## Quarter 2 Project Brainstorming
 
 **What is the most interesting topic covered in your domain this quarter?**
 
