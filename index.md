@@ -1,4 +1,4 @@
-## Yuxin Guo ([y5guo@ucsd.edu])(mailto:y5guo@ucsd.edu)
+## Yuxin Guo ([y5guo@ucsd.edu](mailto:y5guo@ucsd.edu))
 
 Section: *B12*
 
